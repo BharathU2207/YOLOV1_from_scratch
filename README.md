@@ -1,4 +1,1 @@
-# Detectron2
-# Vision-Transformer-from-Scratch-
-# Vision-Transformer-from-Scratch-
-# Vision-Transformer-from-Scratch
+Implementation of the original YOLO(v1) model 
